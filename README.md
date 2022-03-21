@@ -11,6 +11,6 @@ The purpose of this challenge was to refactor VBA code to make the program more 
 In 2017, DQ has the highest return of 199%, while TERP has the lowest return percentage of -7.2%. In 2018, DQ's return percentatage drops to -62.6%, while ENPH returns grew from 5.5% in 2017 to 84% in 2018. Since this data is only limited to two years, it's not sufficient to conclude which stock to invest in, as it might be more useful to observe trends over years. All in all, DQ is not the best stock to invest in like Steve's parents had thought. 
 
 ## Discussion About Refactoring
-Some advantages of refactoring are that it made our code more concise and therefore easier to debug if issues do arise. Also, my making the totalVolumes datatype long, we are able to store larger integers of data, making it more useful for larger data sets and values. Also, the time elapsed to run the program was significantly reduced with refactoring. 
+Some advantages of refactoring are that it made our code more concise and therefore easier to debug if issues do arise. Also, by making the totalVolumes datatype long, we are able to store larger integers of data, making it more useful for larger data sets and values. Also, the time elapsed to run the program was significantly reduced with refactoring. 
 
 Some disadvantages of refactoring include that by making code so succinct, it may be more difficult to customize variables separately since we're relying on such few loop statements. 
