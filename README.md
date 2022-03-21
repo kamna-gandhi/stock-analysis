@@ -13,4 +13,4 @@ In 2017, DQ has the highest return of 199%, while TERP has the lowest return per
 ## Discussion About Refactoring
 Some advantages of refactoring are that it made our code more concise and therefore easier to debug if issues do arise. Also, by making the totalVolumes datatype long, we are able to store larger integers of data, making it more useful for larger data sets and values. Also, the time elapsed to run the program was significantly reduced with refactoring. 
 
-Some disadvantages of refactoring include that by making code so succinct, it may be more difficult to customize variables separately since we're relying on such few loop statements. 
+Some disadvantages of refactoring include that such solutions for complex programs may be very hard to come by, especially if there's code throughout the program that relies on each other. This may potentially lead to bugs. Also, having more efficient solutions by making code succinct, may make it more difficult to customize variables, since we're relying on such few loops and if-then statements. 
